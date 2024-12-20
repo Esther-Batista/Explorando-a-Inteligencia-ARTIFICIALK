@@ -11,16 +11,19 @@ PowerPoint
 🧠 Prompts
 
 ChatGPT：
+
 Me escreva um inicio de ebook, comece informando que irei aborda no livro sobre onde surgiu a IA e que nao devemos confiar totalmente, pois ainda estao em treinamento, quem foi
 a primeira pessoa a citar o termo inteligencia artificial,de uma maneira amigavel e de facil compreensao
 como o teste de turing funciona
 
 
-Ação	prompt
+Ação	prompt Pinterest
+
 mao humana e mao robo
 
 
 ✨ Features
 
 Conteúdo gerado via ChatGPT
+
 Imagens geradas via Pinterest
